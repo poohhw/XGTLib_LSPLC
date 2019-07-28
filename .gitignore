@@ -3,3 +3,7 @@
 ################################################################################
 
 /XGT_TEST/XGT_TEST/bin/Debug
+/XGT_TEST/XGT_TEST/obj/Debug
+/XGT_TEST/XGTLib/bin/Debug/netstandard2.0
+/XGT_TEST/XGTLib/obj
+/XGT_TEST/.vs/XGT_TEST/v15
